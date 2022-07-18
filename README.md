@@ -24,5 +24,7 @@
 
 - A DCT-domain system for robust image watermarking (Barni, Mauro et al. 1998) <a href="https://www.sciencedirect.com/science/article/pii/S0165168498000152">Paper</a>
 
-- Hue modification estimation using sensor pattern noise (Hou, Jong-Uk, Han-Ul Jang, and Heung-Kyu Lee. 2014) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7026070">Paper</a>
+- Hue modification estimation using sensor pattern noise (Jong-Uk Hou, Han-Ul Jang, and Heung-Kyu Lee. 2014) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7026070">Paper</a>
+
+- Estimation of linear transformation by analyzing the periodicity of interpolation (Seung-Jin Ryu, Heung-Kyu Lee. 2014) <a href="https://www.sciencedirect.com/science/article/pii/S016786551300370X">Paper</a>
 

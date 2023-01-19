@@ -12,6 +12,7 @@
 
 - A ConvNet for the 2020s (Z Liu, H Mao et al. 2022) <a href="https://arxiv.org/pdf/2201.03545v2.pdf">Paper</a>
 
+- On the relationship between self-attention and convolutional layers (JB Cordonnier et al. 2019) <a href="https://arxiv.org/pdf/1911.03584.pdf#page=12&zoom=100,110,188">Paper</a>
 <hr>
 
 ### Action Recognition

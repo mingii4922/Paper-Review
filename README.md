@@ -1,5 +1,9 @@
 # Paper-Review
 
+### Diffusion model
+
+- Zero-shot text-to-image generation (Ramesh, Aditya, et al. 2-21) <a href="http://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf">Paper</a>
+
 ### Transformer
 
 - Attention Is All You Need (Ashish Vaswani, Noam Shazeer et al. 2017) <a href="https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf">Paper</a>
